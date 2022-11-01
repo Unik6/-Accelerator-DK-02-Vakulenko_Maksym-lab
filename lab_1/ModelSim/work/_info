@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dI:/Antonyck/lab4.1
+vSubsystem
+!s110 1667259178
+!i10b 1
+!s100 7BHdo@cRYJEfDH]09F<JW2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IEd;<JBJmFMIQYj18FTeZl1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dI:/quartus/karotliy/testbench
+w1666082409
+8I:/quartus/karotliy/testbench/Subsystem.v
+FI:/quartus/karotliy/testbench/Subsystem.v
+!i122 0
+L0 40 219
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1667259178.000000
+!s107 I:/quartus/karotliy/testbench/Subsystem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|I:/quartus/karotliy/testbench/Subsystem.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@subsystem
+vSubsystem_tb
+!s110 1667259179
+!i10b 1
+!s100 ^aIL1mnMjUmo@dSI3IEZ03
+R0
+IV72PHM9_XLPOlhFK_TXLY3
+R1
+R2
+w1666083619
+8I:/quartus/karotliy/testbench/Subsystem_tb.v
+FI:/quartus/karotliy/testbench/Subsystem_tb.v
+!i122 1
+L0 40 630
+R3
+r1
+!s85 0
+31
+!s108 1667259179.000000
+!s107 I:/quartus/karotliy/testbench/Subsystem_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|I:/quartus/karotliy/testbench/Subsystem_tb.v|
+!i113 1
+R4
+R5
+n@subsystem_tb
