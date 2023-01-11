@@ -1,0 +1,6 @@
+ --> CALC_MAG_AND_PHASE_FLoat_POIN_pkg
+lab2_float/CALC_MAG_AND_PHASE_FLoat_POIN/nfp_add_single --> nfp_add_single
+lab2_float/CALC_MAG_AND_PHASE_FLoat_POIN/nfp_atan2_single --> nfp_atan2_single
+lab2_float/CALC_MAG_AND_PHASE_FLoat_POIN/nfp_mul_single --> nfp_mul_single
+lab2_float/CALC_MAG_AND_PHASE_FLoat_POIN/nfp_sqrt_single --> nfp_sqrt_single
+lab2_float/CALC_MAG_AND_PHASE_FLoat_POIN --> CALC_MAG_AND_PHASE_FLoat_POIN
